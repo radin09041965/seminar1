@@ -3,3 +3,13 @@ D:\Drongo\GeekBrains\Проекты в GIT\Seminar1\seminar1\task1\obj\Debug\net
 D:\Drongo\GeekBrains\Проекты в GIT\Seminar1\seminar1\task1\obj\Debug\net6.0\task1.AssemblyInfoInputs.cache
 D:\Drongo\GeekBrains\Проекты в GIT\Seminar1\seminar1\task1\obj\Debug\net6.0\task1.AssemblyInfo.cs
 D:\Drongo\GeekBrains\Проекты в GIT\Seminar1\seminar1\task1\obj\Debug\net6.0\task1.csproj.CoreCompileInputs.cache
+D:\Drongo\GeekBrains\Проекты в GIT\Seminar1\seminar1\task1\bin\Debug\net6.0\task1.exe
+D:\Drongo\GeekBrains\Проекты в GIT\Seminar1\seminar1\task1\bin\Debug\net6.0\task1.deps.json
+D:\Drongo\GeekBrains\Проекты в GIT\Seminar1\seminar1\task1\bin\Debug\net6.0\task1.runtimeconfig.json
+D:\Drongo\GeekBrains\Проекты в GIT\Seminar1\seminar1\task1\bin\Debug\net6.0\task1.dll
+D:\Drongo\GeekBrains\Проекты в GIT\Seminar1\seminar1\task1\bin\Debug\net6.0\task1.pdb
+D:\Drongo\GeekBrains\Проекты в GIT\Seminar1\seminar1\task1\obj\Debug\net6.0\task1.dll
+D:\Drongo\GeekBrains\Проекты в GIT\Seminar1\seminar1\task1\obj\Debug\net6.0\refint\task1.dll
+D:\Drongo\GeekBrains\Проекты в GIT\Seminar1\seminar1\task1\obj\Debug\net6.0\task1.pdb
+D:\Drongo\GeekBrains\Проекты в GIT\Seminar1\seminar1\task1\obj\Debug\net6.0\task1.genruntimeconfig.cache
+D:\Drongo\GeekBrains\Проекты в GIT\Seminar1\seminar1\task1\obj\Debug\net6.0\ref\task1.dll
