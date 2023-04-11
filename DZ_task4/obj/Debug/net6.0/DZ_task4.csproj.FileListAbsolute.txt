@@ -1,0 +1,15 @@
+D:\Drongo\GeekBrains\Проекты в GIT\Seminar1\seminar1\DZ_task4\bin\Debug\net6.0\DZ_task4.exe
+D:\Drongo\GeekBrains\Проекты в GIT\Seminar1\seminar1\DZ_task4\bin\Debug\net6.0\DZ_task4.deps.json
+D:\Drongo\GeekBrains\Проекты в GIT\Seminar1\seminar1\DZ_task4\bin\Debug\net6.0\DZ_task4.runtimeconfig.json
+D:\Drongo\GeekBrains\Проекты в GIT\Seminar1\seminar1\DZ_task4\bin\Debug\net6.0\DZ_task4.dll
+D:\Drongo\GeekBrains\Проекты в GIT\Seminar1\seminar1\DZ_task4\bin\Debug\net6.0\DZ_task4.pdb
+D:\Drongo\GeekBrains\Проекты в GIT\Seminar1\seminar1\DZ_task4\obj\Debug\net6.0\DZ_task4.csproj.AssemblyReference.cache
+D:\Drongo\GeekBrains\Проекты в GIT\Seminar1\seminar1\DZ_task4\obj\Debug\net6.0\DZ_task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drongo\GeekBrains\Проекты в GIT\Seminar1\seminar1\DZ_task4\obj\Debug\net6.0\DZ_task4.AssemblyInfoInputs.cache
+D:\Drongo\GeekBrains\Проекты в GIT\Seminar1\seminar1\DZ_task4\obj\Debug\net6.0\DZ_task4.AssemblyInfo.cs
+D:\Drongo\GeekBrains\Проекты в GIT\Seminar1\seminar1\DZ_task4\obj\Debug\net6.0\DZ_task4.csproj.CoreCompileInputs.cache
+D:\Drongo\GeekBrains\Проекты в GIT\Seminar1\seminar1\DZ_task4\obj\Debug\net6.0\DZ_task4.dll
+D:\Drongo\GeekBrains\Проекты в GIT\Seminar1\seminar1\DZ_task4\obj\Debug\net6.0\refint\DZ_task4.dll
+D:\Drongo\GeekBrains\Проекты в GIT\Seminar1\seminar1\DZ_task4\obj\Debug\net6.0\DZ_task4.pdb
+D:\Drongo\GeekBrains\Проекты в GIT\Seminar1\seminar1\DZ_task4\obj\Debug\net6.0\DZ_task4.genruntimeconfig.cache
+D:\Drongo\GeekBrains\Проекты в GIT\Seminar1\seminar1\DZ_task4\obj\Debug\net6.0\ref\DZ_task4.dll
